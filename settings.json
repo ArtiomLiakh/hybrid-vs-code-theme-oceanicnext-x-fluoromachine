@@ -1,0 +1,22 @@
+
+  {
+    "workbench.iconTheme": "vscode-icons",
+    "vsicons.dontShowNewVersionMessage": true,
+    "explorer.confirmDelete": false,
+    "cSpell.language": "en,ru",
+    "editor.fontFamily": "'JetBrains Mono' ",
+    "editor.letterSpacing": 1.2,
+    "editor.fontLigatures": true,
+    "editor.fontSize": 13,
+    "editor.bracketPairColorization.enabled": false,
+    "explorer.confirmDragAndDrop": false,
+    "files.associations": {
+        "*.pak": "html"
+    },
+    "editor.stickyScroll.enabled": true,
+    "workbench.colorTheme": "Oceanic Next (dimmed bg)",
+    "vscode_custom_css.imports": [
+        "file:///C:/Users/user/.vscode/extensions/naumovs.theme-oceanicnext-0.0.4/synthwave-x-fluoromachine.css",
+        "file:///C:/Users/user/.vscode/extensions/naumovs.theme-oceanicnext-0.0.4/epic-80s-transitions.css"
+        ]
+}
